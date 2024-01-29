@@ -1,0 +1,22 @@
+{
+  "name": "ktern-charts-json",
+  "version": "1.0.0",
+  "description": "NPM package for Chart. Response in JSON. (Donut, SimpleBar, StackedBar)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshwari-E/KTERN-NPM-PACKAGE.git"
+  },
+  "keywords": [
+    "ktern"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshwari-E/KTERN-NPM-PACKAGE/issues"
+  },
+  "homepage": "https://github.com/yogeshwari-E/KTERN-NPM-PACKAGE#readme"
+}
